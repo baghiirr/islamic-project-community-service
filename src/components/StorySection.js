@@ -65,7 +65,14 @@ function InlineSectionVideo({ video, className = "" }) {
       autoPlay: true,
       muted: true,
       loop: true,
-      playsInline: true
+      playsInline: true,
+      style: {
+        display: "block",
+        width: "100%",
+        aspectRatio: "4 / 4.6",
+        objectFit: "cover",
+        objectPosition: "center top"
+      }
     }),
     video.caption ? React.createElement("figcaption", null, video.caption) : null
   );

@@ -494,20 +494,18 @@ button {
 }
 
 .story-media-pair .photo-frame img,
-.story-media-pair .photo-frame video {
+.story-media-pair .photo-frame video,
+.story-media-pair .story-inline-photo video {
   width: 100%;
-  aspect-ratio: 4 / 5;
+  aspect-ratio: 4 / 4.6;
   object-fit: cover;
+  object-position: center top;
   display: block;
   flex: 0 0 auto;
 }
 
 .story-media-pair .photo-frame figcaption {
   min-height: 4.8rem;
-}
-
-.story-media-pair .photo-frame img {
-  aspect-ratio: 4 / 4.6;
 }
 
 .photo-feature {
