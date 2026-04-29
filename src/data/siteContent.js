@@ -156,7 +156,7 @@ export const sections = [
 ];
 
 export const impactStats = [
-  { label: "Staple Foods Donated and More ", value: "300" },
+  { label: "Staple Foods Donated and More ", value: 260 },
   { label: "Mosques Reached", value: 2 },
   { label: "Volunteer Hours", value: 45 }
 ];
