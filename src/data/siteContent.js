@@ -46,7 +46,7 @@ export const sections = [
     },
     media: {
       type: "feature",
-      src: projectPhotos.ali,
+      src: projectPhotos.volunteerThree,
       alt: "Collected canned food and dry pasta arranged on a countertop for the donation drive",
       caption: "Collected food donations ready to be organized and delivered."
     },
@@ -71,7 +71,7 @@ export const sections = [
     belowQuoteImage: {
       src: projectPhotos.trunk,
       alt: "Car trunk packed with canned goods, flour, and rice ready for donation",
-      caption: "Every item collected and ready to distribute to the needy."
+      caption: "Some items that are collected and ready to distribute to the needy."
     },
     media: {
       type: "stack",
