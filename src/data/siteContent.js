@@ -1,6 +1,6 @@
 export const heroContent = {
   arabic: "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم",
-  title: "A Community Drive Built One Can at a Time",
+  title: "Giving What We Can, For the Sake of Allah",
   subtitle: "12th Grade Islamic Community Service Project | 2025-2026",
   names: ["Baqir Zaidi", "Shayan Iqbal", "Faris Khatib", "Youssef Abdelkader", "Imaad Rana"], 
   intro:
@@ -42,7 +42,7 @@ export const sections = [
     ],
     belowBodyVideo: {
       src: projectPhotos.cart,
-      caption: "A quick look at the cart as the donations came together."
+      caption: "A quick look at the cart as the staple foods started coming together."
     },
     media: {
       type: "feature",
