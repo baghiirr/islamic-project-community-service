@@ -40,11 +40,6 @@ export const sections = [
       "We organized a staple food drive centered on simple, useful donations that could be shared quickly with people who needed support. Instead of treating the project like a checklist, we approached it as a real community effort shaped by intention, consistency, and teamwork.",
       "We focused on collecting non-perishable items, organizing them carefully, and preparing them for distribution through local mosques. Every can represented a small act of giving, and together those small acts became something much more meaningful."
     ],
-    belowBodyImage: {
-      src: projectPhotos.givingBag,
-      alt: "Student handing over a donation bag filled with food items",
-      caption: "A simple handoff that captured the spirit of giving and teamwork."
-    },
     belowBodyVideo: {
       src: projectPhotos.cart,
       caption: "A quick look at the cart as the donations came together."
@@ -54,7 +49,12 @@ export const sections = [
       src: projectPhotos.ali,
       alt: "Collected canned food and dry pasta arranged on a countertop for the donation drive",
       caption: "Collected food donations ready to be organized and delivered."
-    }
+    },
+    belowBodyImage: {
+      src: projectPhotos.givingBag,
+      alt: "Student handing over a donation bag filled with food items",
+      caption: "A simple handoff that captured the spirit of giving and teamwork."
+    },
   },
   {
     id: "why-it-mattered",
